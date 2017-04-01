@@ -25,7 +25,7 @@ SECRET_KEY = 'dqc060d&s$0eb&%-)br(2d4i=9#=pnu#q*yt(t)&!^4i-zgy$u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['apricot-sundae-62964.herokuapp.com',]
 
 
 # Application definition
